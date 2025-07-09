@@ -85,9 +85,9 @@ git clone https://github.com/your-username/business-performance-dashboard.git
 For feedback, collaboration, or questions:
 
 **Sanjay S**  
-📧 your.email@example.com  
+📧 [sanjayskpy1@gmail.com](mailto:sanjayskpy1@gmail.com)
 👤 [LinkedIn Profile](https://www.linkedin.com/in/sanjay-s953925)
-👤 [Portfolio]()
+👤 [Portfolio](https://sk-sanju.github.io/Sanjay/)
 
 ---
 

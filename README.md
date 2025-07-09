@@ -23,7 +23,7 @@ This Power BI Dashboard presents a comprehensive **Business Performance Report**
 
 ## 📌 Key Visuals
 
-### 🔹 1. Sub-Category Metrics Table
+### 🔹 1. Return status & Executive Insights
 - Comparative view of **Total Cost**, **Quantity**, **Profit Before/After Discount**, and **Sales** for each sub-category.
 - Helps identify which product lines are most/least profitable.
 
@@ -42,7 +42,7 @@ This Power BI Dashboard presents a comprehensive **Business Performance Report**
 
 ---
 
-### 🔹 3. Ship Mode & Executive Insights
+### 🔹 3. Ship Mode & Sub-Category Metrics Table
 - **Pie chart** showing shipping mode preferences (Standard Class is the most used).
 - **Key insights** derived from data:
   - West region has highest sales (~8.43L INR)

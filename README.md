@@ -3,7 +3,7 @@
 
 This Power BI Dashboard presents a comprehensive **Business Performance Report** with a detailed analysis of sales, profit, cost, and quantity across product sub-categories, states, cities, and shipping methods. The dashboard is designed to support strategic decisions with interactive and visually rich insights.
 
-![Dashboard Overview](./screenshots/main.png)
+![Dashboard Overview](./main.png)
 
 ---
 
@@ -11,13 +11,12 @@ This Power BI Dashboard presents a comprehensive **Business Performance Report**
 
 ```
 📦 Business-Performance-Dashboard
-├── screenshots/
-│   ├── main.png      # Sub-Category Metrics Table
-│   ├── map.png      # Top Categories, Products, Cities, States
-│   └── insights.png      # Ship Mode Distribution & Key Insights
+├── main.png      # Sub-Category Metrics Table
+│── map.png      # Top Categories, Products, Cities, States
+|── insights.png      # Ship Mode Distribution & Key Insights
 ├── README.md                 # Project Documentation
 |──Dataset.xlsx      # Dataset
-└── Business_Analysis.pbix    # Power BI Dashboard File
+└── Business Analysis.pbix    # Power BI Dashboard File
 ```
 
 ---
@@ -28,7 +27,7 @@ This Power BI Dashboard presents a comprehensive **Business Performance Report**
 - Comparative view of **Total Cost**, **Quantity**, **Profit Before/After Discount**, and **Sales** for each sub-category.
 - Helps identify which product lines are most/least profitable.
 
-![Sub-Category Table](./screenshots/main.png)
+![Sub-Category Table](./main.png)
 
 ---
 
@@ -39,7 +38,7 @@ This Power BI Dashboard presents a comprehensive **Business Performance Report**
   - **Cities**: New York City, Los Angeles, Seattle
   - **States**: California, New York, Texas
 
-![Top Metrics](./screenshots/map.png)
+![Top Metrics](./map.png)
 
 ---
 
@@ -51,7 +50,7 @@ This Power BI Dashboard presents a comprehensive **Business Performance Report**
   - West contributes over **31%** of total sales
   - Divergence identified where Sales outpaced Profit in the West
 
-![Ship Mode & Insights](./screenshots/insights.png)
+![Ship Mode & Insights](./insights.png)
 
 ---
 
@@ -77,7 +76,7 @@ This dashboard enables business users to:
 ```bash
 git clone https://github.com/your-username/business-performance-dashboard.git
 ```
-2. Open `BusinessDashboard.pbix` using Power BI Desktop.
+2. Open `Business Analysis.pbix` using Power BI Desktop.
 3. Refresh data or customize visuals as needed.
 
 ---
@@ -87,7 +86,8 @@ For feedback, collaboration, or questions:
 
 **Sanjay S**  
 📧 your.email@example.com  
-👤 [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+👤 [LinkedIn Profile](https://www.linkedin.com/in/sanjays-953925)
+👤 [Portfolio]()
 
 ---
 

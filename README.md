@@ -1,2 +1,97 @@
-# Business-Performance-Analysis
-An interactive Power BI dashboard visualizing key business metrics, including product profitability, regional performance, shipping modes, and top-performing categories. Designed to provide actionable insights for data-driven decisions in retail and sales environments.
+
+# 📊 Business Performance Report Dashboard
+
+This Power BI Dashboard presents a comprehensive **Business Performance Report** with a detailed analysis of sales, profit, cost, and quantity across product sub-categories, states, cities, and shipping methods. The dashboard is designed to support strategic decisions with interactive and visually rich insights.
+
+![Dashboard Overview](./screenshots/main.png)
+
+---
+
+## 📁 Project Structure
+
+```
+📦 Business-Performance-Dashboard
+├── screenshots/
+│   ├── main.png      # Sub-Category Metrics Table
+│   ├── map.png      # Top Categories, Products, Cities, States
+│   └── insights.png      # Ship Mode Distribution & Key Insights
+├── README.md                 # Project Documentation
+|──Dataset.xlsx      # Dataset
+└── Business_Analysis.pbix    # Power BI Dashboard File
+```
+
+---
+
+## 📌 Key Visuals
+
+### 🔹 1. Sub-Category Metrics Table
+- Comparative view of **Total Cost**, **Quantity**, **Profit Before/After Discount**, and **Sales** for each sub-category.
+- Helps identify which product lines are most/least profitable.
+
+![Sub-Category Table](./screenshots/main.png)
+
+---
+
+### 🔹 2. Top Categories, Products, Cities, States
+- Highlights best-performing:
+  - **Categories**: Technology, Furniture, Office Supplies
+  - **Products**: Phones, Chairs, Storage
+  - **Cities**: New York City, Los Angeles, Seattle
+  - **States**: California, New York, Texas
+
+![Top Metrics](./screenshots/map.png)
+
+---
+
+### 🔹 3. Ship Mode & Executive Insights
+- **Pie chart** showing shipping mode preferences (Standard Class is the most used).
+- **Key insights** derived from data:
+  - West region has highest sales (~8.43L INR)
+  - Sales-Profit correlation is positive
+  - West contributes over **31%** of total sales
+  - Divergence identified where Sales outpaced Profit in the West
+
+![Ship Mode & Insights](./screenshots/insights.png)
+
+---
+
+## 🛠️ Built With
+- [Power BI](https://powerbi.microsoft.com/) – For data modeling and dashboards
+- Microsoft Excel – Source dataset
+- DAX – For calculated measures and KPIs
+
+---
+
+## 📈 Purpose
+This dashboard enables business users to:
+- Track profitability and sales performance
+- Spot trends by region and product
+- Evaluate shipping method usage
+- Drive informed business decisions
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/business-performance-dashboard.git
+```
+2. Open `BusinessDashboard.pbix` using Power BI Desktop.
+3. Refresh data or customize visuals as needed.
+
+---
+
+## 📬 Contact
+For feedback, collaboration, or questions:
+
+**Sanjay S**  
+📧 your.email@example.com  
+👤 [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+
+---
+
+## ✨ Credits
+Made with ❤️ by **Sanjay S** using Power BI.
+
+---

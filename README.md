@@ -86,7 +86,7 @@ For feedback, collaboration, or questions:
 
 **Sanjay S**  
 📧 your.email@example.com  
-👤 [LinkedIn Profile](https://www.linkedin.com/in/sanjays-953925)
+👤 [LinkedIn Profile](https://www.linkedin.com/in/sanjay-s953925)
 👤 [Portfolio]()
 
 ---
